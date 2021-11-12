@@ -3,11 +3,6 @@
 
 # IntelliJ project files
 .idea
-cmake-build-debug
-*.iml
-out
-gen
-images
-todo_list.txt
 .DS_Store
 .ipynb_checkpoints
+k397-673e.tsv.gz
