@@ -1,0 +1,13 @@
+### Example user template template
+### Example user template
+
+# IntelliJ project files
+.idea
+cmake-build-debug
+*.iml
+out
+gen
+images
+todo_list.txt
+.DS_Store
+.ipynb_checkpoints
