@@ -6,3 +6,6 @@
 .DS_Store
 .ipynb_checkpoints
 k397-673e.tsv.gz
+Citywide_Payroll_Data__Fiscal_Year_.csv
+.openclean
+openclean_test.py
